@@ -14,7 +14,7 @@
         <!-- Spring、SpringMVC、SpringFramework版本 -->
         <spring.version>5.0.2.RELEASE</spring.version>
         <!-- Spring Security角色权限框架版本 -->
-        <spring.security.version>5.0.1.RELEASE</spring.security.version>
+        <spring.security.version>5.2.10.RELEASE</spring.security.version>
         <!-- Junit版本 -->
         <junit.version>4.12</junit.version>
         <!-- javax.servlet-api版本 -->
